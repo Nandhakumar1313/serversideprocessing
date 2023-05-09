@@ -101,8 +101,13 @@ REG NO:212222100029
 ```
 
 ## OUTPUT:
+## SERVER OUTPUT:
+![server1](https://user-images.githubusercontent.com/120230694/237033922-36085dac-ff99-4d91-a0fb-74b25d3d9b05.png)
 
+## CLIENT OUTPUT:
+![output1](https://user-images.githubusercontent.com/120230694/237034021-035e9b81-cc0c-4972-a04b-5ab1926dd537.png)
 
 
 ## Result:
+Hence the programme executed sucessfully.
 
